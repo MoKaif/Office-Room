@@ -1,0 +1,88 @@
+﻿  main.cpp
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(8,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(9,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(10,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(46,15): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(67,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(68,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(72,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(73,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(74,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(95,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(96,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(97,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(108,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(108,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(109,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(109,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(110,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(110,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(111,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(111,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(120,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(120,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(121,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(121,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(122,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(122,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(123,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(123,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(132,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(132,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(133,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(133,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(134,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(134,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(135,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(135,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(136,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(136,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(137,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(137,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(146,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(146,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(147,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(147,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(148,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(148,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(149,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(149,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(158,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(158,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(159,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(159,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(171,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(175,37): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(180,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(183,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(257,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(294,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(297,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(301,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(308,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(316,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(319,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(325,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(328,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(335,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(347,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(351,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(355,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(366,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(377,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(380,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(383,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(386,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(389,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(392,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(397,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(400,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(404,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(409,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(412,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(416,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(419,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(422,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sujal\source\repos\OpenGL1\OpenGL1\main.cpp(483,37): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  OpenGL1.vcxproj -> C:\Users\sujal\source\repos\OpenGL1\Debug\OpenGL1.exe
+          1 file(s) copied.
